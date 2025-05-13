@@ -12,7 +12,7 @@ A brief description of the bug and in which notebook/script it lives.
 
 **To Reproduce**
 - In case you are not running the current version of the notebook/script as found on GitHub.
-
+A brief description of the bug and in which notebook/script it lives.
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
